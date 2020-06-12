@@ -10,3 +10,10 @@ This will be my main directory aka the root for files and link.
 *   [ER Diagram](/files/Stefan DeRosa - Data Dictionary.pdf)
 *   [Data Dictionary](/files/Stefan DeRosa - ERD.pdf)
 
+## Module 3
+Review
+
+## Module 4
+*   [Module 4](https://github.com/countyflipper/CompanyEmployees/tree/Module4)
+
+
