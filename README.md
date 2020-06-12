@@ -7,8 +7,8 @@ This will be my main directory aka the root for files and link.
 
 
 ## Module 2
-*   [ER Diagram](https://github.com/countyflipper/CompanyEmployees/blob/master/files/Stefan%20DeRosa%20-%20Data%20Dictionary.pdf)
-*   [Data Dictionary](https://github.com/countyflipper/CompanyEmployees/blob/master/files/Stefan%20DeRosa%20-%20ERD.pdf)
+*   [Data Dictionary](https://github.com/countyflipper/CompanyEmployees/blob/master/files/Stefan%20DeRosa%20-%20Data%20Dictionary.pdf)
+*   [ER Diagram](https://github.com/countyflipper/CompanyEmployees/blob/master/files/Stefan%20DeRosa%20-%20ERD.pdf)
 
 ## Module 3
 Review
