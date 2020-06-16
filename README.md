@@ -1,4 +1,4 @@
-﻿## Overview
+## Overview
 
 This will be my main directory aka the root for files and link.
 
@@ -11,7 +11,8 @@ This will be my main directory aka the root for files and link.
 *   [ER Diagram](https://github.com/countyflipper/CompanyEmployees/blob/master/files/Stefan%20DeRosa%20-%20ERD.pdf)
 
 ## Module 3
-Review
+*   [Swagger YMAL School API](https://github.com/countyflipper/CompanyEmployees/blob/Module3/files/SchoolAPI%20Swagger.yaml)
+*   [Swagger JSON School API](https://github.com/countyflipper/CompanyEmployees/blob/Module3/files/School%20API%20-%20Swagger.json)
 
 ## Module 4
 *   [Module 4](https://github.com/countyflipper/CompanyEmployees/tree/Module4)
@@ -19,5 +20,7 @@ Review
 ## Module 5
 *   [Module 5](https://github.com/countyflipper/CompanyEmployees/tree/Module5)
 
+## Module 6
+*   [Module 6](https://github.com/countyflipper/CompanyEmployees/tree/Module6)
 
 
